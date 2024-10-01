@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Irish Grover:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inika:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;400;500;700&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="camisa-preta-1">
+    		<div class="sua-conta-stamps">SUA CONTA STAMP’S</div>
+    		<img class="image-17-icon" alt="" src="image 17.png">
+    		
+    		<img class="image-32-icon" alt="" src="image 32.png" id="image32Icon">
+    		
+    		<img class="stamps-1-1" alt="" src="Stamp’s (1) 1.png">
+    		
+    		<div class="produto">PRODUTO</div>
+    		<div class="shape-with-text-parent">
+      			<div class="shape-with-text">
+      			</div>
+      			<div class="desenvolvedores">DESENVOLVEDORES</div>
+      			<div class="stamps2623gmailcom">
+        				<p class="p">(11)98429-3810</p>
+        				<p class="p">stamps2623@gmail.com</p>
+      			</div>
+      			<div class="horrio-de-atendimento-container">
+        				<p class="p">Horário de atendimento:</p>
+        				<p class="p">Seg. à Sex.-8:00 ÀS 21:00</p>
+      			</div>
+      			<div class="atendimento">ATENDIMENTO</div>
+      			<div class="bruno-taiwo-diego-horvate-container">
+        				<p class="p">&nbsp;</p>
+        				<p class="p">&nbsp;</p>
+        				<p class="p">Bruno Taiwo Diego Horvate</p>
+        				<p class="p">Tales Costa</p>
+        				<p class="p">Kauã Andreoti</p>
+      			</div>
+      			<div class="onde-nos-encontrar">ONDE NOS ENCONTRAR</div>
+      			<div class="whatsapp-instagram-tik-container">
+        				<p class="p">&nbsp;</p>
+        				<p class="p">&nbsp;</p>
+        				<p class="p">Whatsapp</p>
+        				<p class="p">Instagram</p>
+        				<p class="p">Tik Tok</p>
+      			</div>
+    		</div>
+    		<img class="image-45-icon" alt="" src="image 45.png">
+    		
+    		<div class="camisa-preta-1-child">
+    		</div>
+    		<img class="image-46-icon" alt="" src="image 46.png">
+    		
+    		<img class="image-69-icon" alt="" src="image 69.png" id="image69">
+    		
+    		<div class="camisa-preta-1-item">
+    		</div>
+    		<div class="camisa-preta-1-inner">
+    		</div>
+    		<div class="rectangle-parent" id="groupContainer1">
+      			<div class="group-child">
+      			</div>
+      			<div class="continuar">CONTINUAR</div>
+    		</div>
+    		<div class="to-dizendo-que">TÃO DIZENDO QUE VOCE FEZ ALGO?</div>
+    		<div class="r7999">R$79,99</div>
+    		<div class="ou">ou </div>
+    		<div class="x-de-r2000">4x de R$20,00</div>
+    		<div class="cor">COR</div>
+    		<div class="tamanhos">TAMANHOS</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="camisa-preta-1-child1">
+    		</div>
+    		<div class="camisa-preta-1-child2">
+    		</div>
+    		<img class="arrow-icon" alt="" src="Arrow 3.svg">
+    		
+    		<div class="quantidade">QUANTIDADE</div>
+    		<div class="ellipse-div">
+    		</div>
+    		<div class="camisa-preta-1-child3">
+    		</div>
+    		<div class="line-div">
+    		</div>
+    		<div class="camisa-preta-1-child4">
+    		</div>
+    		<div class="camisa-preta-1-child5">
+    		</div>
+    		<div class="insira-aqui-seu">Insira aqui seu CEP</div>
+    		<div class="calcular-frete">Calcular frete</div>
+    		<div class="no-sei-meu">Não  sei meu CEP</div>
+    		<div class="especificaes">Especificações</div>
+    		<img class="group-icon" alt="" src="Group 51.svg">
+    		
+    		<div class="rea-mxima-de-container">
+      			<p class="p">
+        				<b class="rea-mxima-de">Área máxima de impressão: Frente:</b>
+        				<span class="span"> </span>
+        				<span>29x42 cm. Costas: 29x42 cm. Considere a área como largura x altura.</span>
+      			</p>
+    		</div>
+    		<div class="tcnica-de-impresso-silk-container">
+      			<b>Técnica de impressão:</b>
+      			<span class="span1"> </span>
+      			<span>Silk Digital HD.</span>
+    		</div>
+    		<div class="cores-do-produto-como-container">
+      			<b>Cores do produto:</b>
+      			<span class="span1"> </span>
+      			<span>Como cada tela de computador ou celular tem seu próprio jeito de mostrar cores, então a cor da sua camiseta e da estampa pode ser um pouco diferente do que você viu online.</span>
+    		</div>
+    		<div class="medidas" id="medidasText">Medidas</div>
+    		<img class="image-59-icon" alt="" src="image 59.png">
+    		
+    		<img class="image-60-icon" alt="" src="image 60.png">
+    		
+    		<img class="image-61-icon" alt="" src="image 61.png">
+    		
+    		<div class="sugestes">Sugestões</div>
+    		<div class="camisa-preta-1-child6">
+    		</div>
+    		<img class="image-51-icon" alt="" src="image 51.png">
+    		
+    		<img class="image-52-icon" alt="" src="image 52.png">
+    		
+    		<img class="image-53-icon" alt="" src="image 53.png">
+    		
+    		<img class="image-54-icon" alt="" src="image 54.png">
+    		
+    		<div class="inicio" id="iNICIOText">INICIO</div>
+    		<div class="loja" id="lOJAText">LOJA</div>
+    		<div class="minha-conta" id="mINHACONTAText">MINHA CONTA</div>
+    		<div class="contato" id="cONTATOText">CONTATO</div>
+  	</div>
+  	
+  	
+  	
+  	
+  	<script>
+    		var image32Icon = document.getElementById("image32Icon");
+    		if(image32Icon) {
+      			image32Icon.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var image69 = document.getElementById("image69");
+    		if(image69) {
+      			image69.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var groupContainer1 = document.getElementById("groupContainer1");
+    		if(groupContainer1) {
+      			groupContainer1.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var medidasText = document.getElementById("medidasText");
+    		if(medidasText) {
+      			medidasText.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var iNICIOText = document.getElementById("iNICIOText");
+    		if(iNICIOText) {
+      			iNICIOText.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var lOJAText = document.getElementById("lOJAText");
+    		if(lOJAText) {
+      			lOJAText.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var mINHACONTAText = document.getElementById("mINHACONTAText");
+    		if(mINHACONTAText) {
+      			mINHACONTAText.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var cONTATOText = document.getElementById("cONTATOText");
+    		if(cONTATOText) {
+      			cONTATOText.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}</script></body>
+</html>
+
+.sua-conta-stamps {
+  	position: absolute;
+  	top: 240px;
+  	left: 416px;
+  	font-size: 70px;
+  	letter-spacing: -0.02em;
+  	line-height: 37.43px;
+  	font-family: 'Irish Grover';
+  	color: #fff;
+  	display: inline-block;
+  	width: 1294px;
+  	height: 61px;
+}
+.image-17-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 81px;
+  	height: 81px;
+  	object-fit: cover;
+}
+.image-32-icon {
+  	position: absolute;
+  	top: 18px;
+  	left: 1347px;
+  	width: 45px;
+  	height: 45px;
+  	object-fit: cover;
+  	cursor: pointer;
+}
+.stamps-1-1 {
+  	position: absolute;
+  	top: 81px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 268px;
+  	object-fit: cover;
+}
+.produto {
+  	position: absolute;
+  	top: 195px;
+  	left: 613px;
+  	font-size: 70px;
+  	letter-spacing: -0.02em;
+  	line-height: 37.43px;
+  	font-family: 'Irish Grover';
+  	color: #fff;
+  	display: inline-block;
+  	width: 1294px;
+  	height: 61px;
+}
+.shape-with-text {
+  	position: relative;
+  	border-radius: 6px;
+  	background-color: #e6e6e6;
+  	width: 1440px;
+  	height: 126px;
+}
+.desenvolvedores {
+  	position: absolute;
+  	top: 22.17px;
+  	left: 607px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	font-family: 'Irish Grover';
+  	display: inline-block;
+  	width: 218px;
+  	height: 38.3px;
+}
+.p {
+  	margin: 0;
+}
+.stamps2623gmailcom {
+  	position: absolute;
+  	top: 96px;
+  	left: 59px;
+  	font-size: 15px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	display: inline-block;
+  	width: 168px;
+  	height: 36px;
+}
+.horrio-de-atendimento-container {
+  	position: absolute;
+  	top: 51px;
+  	left: 54px;
+  	font-size: 15px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	display: inline-block;
+  	width: 187px;
+  	height: 58px;
+}
+.atendimento {
+  	position: absolute;
+  	top: 21px;
+  	left: 63px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	font-family: 'Irish Grover';
+  	display: inline-block;
+  	width: 159px;
+  	height: 38.3px;
+}
+.bruno-taiwo-diego-horvate-container {
+  	position: absolute;
+  	top: 11px;
+  	left: 678px;
+  	font-size: 15px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	text-align: left;
+  	display: inline-block;
+  	width: 106px;
+  	height: 121px;
+  	opacity: 0.8;
+}
+.onde-nos-encontrar {
+  	position: absolute;
+  	top: 22.17px;
+  	left: 1157px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	font-family: 'Irish Grover';
+  	display: inline-block;
+  	width: 260px;
+  	height: 38.3px;
+}
+.whatsapp-instagram-tik-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 1189px;
+  	font-size: 17px;
+  	letter-spacing: -0.02em;
+  	line-height: 150%;
+  	color: #1e1e1e;
+  	text-align: left;
+  	display: inline-block;
+  	width: 102px;
+  	height: 130px;
+}
+.shape-with-text-parent {
+  	position: relative;
+  	width: 1440px;
+  	height: 147.1px;
+  	text-align: center;
+  	font-family: Inika;
+}
+.image-45-icon {
+  	position: absolute;
+  	top: 395px;
+  	left: 570px;
+  	width: 300px;
+  	height: 308.4px;
+  	object-fit: cover;
+}
+.camisa-preta-1-child {
+  	position: absolute;
+  	top: 722.5px;
+  	left: 569.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 301px;
+  	height: 1px;
+}
+.image-46-icon {
+  	position: absolute;
+  	top: 743px;
+  	left: 761px;
+  	width: 100px;
+  	height: 100px;
+  	object-fit: cover;
+}
+.image-69-icon {
+  	position: absolute;
+  	top: 743px;
+  	left: 570px;
+  	width: 100px;
+  	height: 100px;
+  	object-fit: cover;
+  	cursor: pointer;
+}
+.camisa-preta-1-item {
+  	position: absolute;
+  	top: 612px;
+  	left: 996px;
+  	border-radius: 50px;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 373px;
+  	height: 38px;
+}
+.camisa-preta-1-inner {
+  	position: absolute;
+  	top: 613px;
+  	left: 1182px;
+  	border-radius: 0px 50px 50px 0px;
+  	background-color: #d9d9d9;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 187px;
+  	height: 38px;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 50px;
+  	background-color: #000;
+  	width: 373px;
+  	height: 37px;
+}
+.continuar {
+  	position: absolute;
+  	top: 2px;
+  	left: 122px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: flex;
+  	align-items: center;
+  	width: 129px;
+  	height: 34px;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 562px;
+  	left: 995px;
+  	width: 373px;
+  	height: 37px;
+  	cursor: pointer;
+  	font-size: 18px;
+  	color: #fff;
+}
+.to-dizendo-que {
+  	position: absolute;
+  	top: 349px;
+  	left: 985px;
+  	font-size: 18px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 379px;
+  	height: 34px;
+}
+.r7999 {
+  	position: absolute;
+  	top: 374px;
+  	left: 1002px;
+  	font-size: 20px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 96px;
+  	height: 34px;
+}
+.ou {
+  	position: absolute;
+  	top: 374px;
+  	left: 1125px;
+  	font-size: 20px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 28px;
+  	height: 34px;
+}
+.x-de-r2000 {
+  	position: absolute;
+  	top: 374px;
+  	left: 1180px;
+  	font-size: 20px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 167px;
+  	height: 34px;
+}
+.cor {
+  	position: absolute;
+  	top: 408px;
+  	left: 1006px;
+  	font-size: 13px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 34px;
+  	height: 34px;
+}
+.tamanhos {
+  	position: absolute;
+  	top: 408px;
+  	left: 1245px;
+  	font-size: 13px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 88px;
+  	height: 34px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 469px;
+  	left: 1001px;
+  	border-radius: 15px;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 136px;
+  	height: 27px;
+}
+.camisa-preta-1-child1 {
+  	position: absolute;
+  	top: 539px;
+  	left: 1001px;
+  	border-radius: 15px;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 169px;
+  	height: 27px;
+}
+.camisa-preta-1-child2 {
+  	position: absolute;
+  	top: 442px;
+  	left: 1245px;
+  	border-radius: 15px;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 136px;
+  	height: 27px;
+}
+.arrow-icon {
+  	position: absolute;
+  	top: 451.02px;
+  	left: 1123.59px;
+  	width: 0px;
+  	height: 11.1px;
+  	object-fit: contain;
+}
+.quantidade {
+  	position: absolute;
+  	top: 480px;
+  	left: 1006px;
+  	font-size: 13px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 102px;
+  	height: 34px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 518px;
+  	left: 1141px;
+  	border-radius: 50%;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 23px;
+  	height: 17px;
+}
+.camisa-preta-1-child3 {
+  	position: absolute;
+  	top: 518px;
+  	left: 1006px;
+  	border-radius: 50%;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 23px;
+  	height: 17px;
+}
+.line-div {
+  	position: absolute;
+  	top: 526.5px;
+  	left: 1010.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 13px;
+  	height: 1px;
+}
+.camisa-preta-1-child4 {
+  	position: absolute;
+  	top: 526.5px;
+  	left: 1146.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 13px;
+  	height: 1px;
+}
+.camisa-preta-1-child5 {
+  	position: absolute;
+  	top: 520.5px;
+  	left: 1153.5px;
+  	border-right: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 12px;
+}
+.insira-aqui-seu {
+  	position: absolute;
+  	top: 615px;
+  	left: 1008px;
+  	font-size: 11px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	font-weight: 200;
+  	display: inline-block;
+  	width: 116px;
+  	height: 35px;
+}
+.calcular-frete {
+  	position: absolute;
+  	top: 616px;
+  	left: 1234px;
+  	font-size: 11px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 82px;
+  	height: 35px;
+}
+.no-sei-meu {
+  	position: absolute;
+  	top: 640px;
+  	left: 1011px;
+  	font-size: 10px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 130px;
+  	height: 26px;
+}
+.especificaes {
+  	position: absolute;
+  	top: 672px;
+  	left: 1198px;
+  	font-size: 18px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 151px;
+  	height: 35px;
+}
+.group-icon {
+  	position: absolute;
+  	top: 706.61px;
+  	left: 1003.4px;
+  	width: 377.8px;
+  	height: 0px;
+}
+.rea-mxima-de {
+  	font-family: Inter;
+}
+.span {
+  	font-weight: 100;
+  	font-family: Inter;
+}
+.rea-mxima-de-container {
+  	position: absolute;
+  	top: 720px;
+  	left: 1001px;
+  	font-size: 11px;
+  	letter-spacing: -0.03em;
+  	line-height: 24px;
+  	display: inline-block;
+  	width: 401px;
+  	height: 38px;
+}
+.span1 {
+  	font-weight: 100;
+}
+.tcnica-de-impresso-silk-container {
+  	position: absolute;
+  	top: 775px;
+  	left: 1003px;
+  	font-size: 11px;
+  	letter-spacing: -0.03em;
+  	line-height: 24px;
+  	display: inline-block;
+  	width: 336px;
+  	height: 24px;
+}
+.cores-do-produto-como-container {
+  	position: absolute;
+  	top: 799px;
+  	left: 1003px;
+  	font-size: 11px;
+  	letter-spacing: -0.03em;
+  	line-height: 24px;
+  	display: inline-block;
+  	width: 338px;
+  	height: 44px;
+}
+.medidas {
+  	position: absolute;
+  	top: 672px;
+  	left: 1037px;
+  	font-size: 18px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	color: rgba(0, 0, 0, 0.4);
+  	display: inline-block;
+  	width: 87px;
+  	height: 35px;
+  	cursor: pointer;
+}
+.image-59-icon {
+  	position: absolute;
+  	top: 928px;
+  	left: 1266px;
+  	width: 34px;
+  	height: 32px;
+  	object-fit: cover;
+}
+.image-60-icon {
+  	position: absolute;
+  	top: 985px;
+  	left: 1266px;
+  	width: 34px;
+  	height: 32px;
+  	object-fit: cover;
+}
+.image-61-icon {
+  	position: absolute;
+  	top: 960px;
+  	left: 1270px;
+  	width: 25px;
+  	height: 25px;
+  	object-fit: cover;
+}
+.sugestes {
+  	position: absolute;
+  	top: 395px;
+  	left: 136.33px;
+  	letter-spacing: -0.02em;
+  	line-height: 32px;
+  	display: inline-block;
+  	width: 139.6px;
+  	height: 33.6px;
+}
+.camisa-preta-1-child6 {
+  	position: absolute;
+  	top: 462.74px;
+  	left: 51.58px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 310.3px;
+  	height: 1px;
+}
+.image-51-icon {
+  	position: absolute;
+  	top: 532.53px;
+  	left: 44px;
+  	width: 115.4px;
+  	height: 105px;
+  	object-fit: cover;
+}
+.image-52-icon {
+  	position: absolute;
+  	top: 532.53px;
+  	left: 256.36px;
+  	width: 115.4px;
+  	height: 105px;
+  	object-fit: cover;
+}
+.image-53-icon {
+  	position: absolute;
+  	top: 711.01px;
+  	left: 265.59px;
+  	width: 115.4px;
+  	height: 105px;
+  	object-fit: cover;
+}
+.image-54-icon {
+  	position: absolute;
+  	top: 711.01px;
+  	left: 44px;
+  	width: 115.4px;
+  	height: 105px;
+  	object-fit: cover;
+}
+.inicio {
+  	position: absolute;
+  	top: 25px;
+  	left: 207px;
+  	letter-spacing: -0.02em;
+  	line-height: 37.43px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 95px;
+  	height: 61px;
+  	cursor: pointer;
+}
+.loja {
+  	position: absolute;
+  	top: 27px;
+  	left: 482px;
+  	letter-spacing: -0.02em;
+  	line-height: 37.43px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 86px;
+  	height: 36px;
+  	cursor: pointer;
+}
+.minha-conta {
+  	position: absolute;
+  	top: 25px;
+  	left: 738px;
+  	letter-spacing: -0.02em;
+  	line-height: 37.43px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 315px;
+  	height: 43px;
+  	cursor: pointer;
+}
+.contato {
+  	position: absolute;
+  	top: 27px;
+  	left: 1115px;
+  	letter-spacing: -0.02em;
+  	line-height: 37.43px;
+  	font-weight: 500;
+  	text-align: center;
+  	display: inline-block;
+  	width: 185px;
+  	height: 40px;
+  	cursor: pointer;
+}
+.camisa-preta-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #ededed;
+  	height: 1024px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 25px;
+  	color: #000;
+  	font-family: Inter;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
