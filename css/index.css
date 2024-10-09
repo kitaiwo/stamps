@@ -225,7 +225,7 @@
     width: 224px;
     height: 291px;
 }
-.image-34-icon {
+.logo {
     position: absolute;
     top: 0px;
     left: 8px;
@@ -235,7 +235,7 @@
 }
 .image-53-icon {
     position: absolute;
-    top: 932px;
+    top: 20px;
     left: 1279px;
     width: 34px;
     height: 32px;
@@ -243,7 +243,7 @@
 }
 .image-54-icon {
     position: absolute;
-    top: 989px;
+    top: 100px;
     left: 1279px;
     width: 34px;
     height: 32px;
@@ -251,7 +251,7 @@
 }
 .image-55-icon {
     position: absolute;
-    top: 1000px;
+    top: 64px;
     left: 1283px;
     width: 25px;
     height: 25px;
@@ -259,8 +259,8 @@
 }
 .image-56-icon {
     position: absolute;
-    top: 6px;
-    left: 1354px;
+    top: 260px;
+    left: 354px;
     width: 54px;
     height: 54px;
     object-fit: cover;
@@ -372,7 +372,7 @@
     cursor: pointer;
 }
 .index {
-    width: 100%;
+    width: 1440px;
     position: absolute;
     background-color: #ededed;
     height: 1024px;
@@ -393,7 +393,7 @@ line-height: normal;
     border-radius: 6px;
     background-color: #e6e6e6;
     width: 1440px;
-    height: 125px;
+    height: 150px;
 }
 .desenvolvedores {
     position: absolute;
